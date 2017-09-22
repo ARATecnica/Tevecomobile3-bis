@@ -6976,13 +6976,14 @@ angular.module('mm.core')
         };
         self.getDocsUrl = function(release, page) {
             page = page || 'Mobile_app';
-            var docsurl = 'https://docs.moodle.org/en/' + page;
-            if (typeof release != 'undefined') {
-                var version = release.substr(0, 3).replace(".", "");
-                if (parseInt(version) >= 24) {
-                    docsurl = docsurl.replace('https://docs.moodle.org/', 'https://docs.moodle.org/' + version + '/');
-                }
-            }
+            var docsurl = 'http://www.tecnichedivendita.com/chi-siamo/';
+			//var docsurl = 'https://docs.moodle.org/en/' + page;
+            //if (typeof release != 'undefined') {
+                //var version = release.substr(0, 3).replace(".", "");
+                //if (parseInt(version) >= 24) {
+                    //docsurl = docsurl.replace('https://docs.moodle.org/', 'https://docs.moodle.org/' + version + '/');
+                //}
+            //}
             return $mmLang.getCurrentLanguage().then(function(lang) {
                 return docsurl.replace('/en/', '/' + lang + '/');
             }, function() {
@@ -65705,22 +65706,21 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode" : "2019",
-    "versionname" : "3.3.1",
+    "app_id" : "com.tecnichedivendita.tevecomobile",
+    "appname": "Teveco Mobile",
+    "desktopappname": "Teveco Desktop",
+    "versioncode" : "20173",
+    "versionname" : "1.1.1",
     "cache_expiration_time" : 300000,
-    "default_lang" : "en",
+    "default_lang" : "it",
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "lt" : "Lietuvių", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sr-cr": "Српски", "sr-lt": "Srpski", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-    "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
-    "gcmpn": "694767596569",
+    "gcmpn": "399828234124",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://elearning.tecnichedivendita.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "http://www.tecnichedivendita.com/privacy/"
 }
 );
