@@ -6976,7 +6976,7 @@ angular.module('mm.core')
         };
         self.getDocsUrl = function(release, page) {
             page = page || 'Mobile_app';
-            var docsurl = 'http://www.tecnichedivendita.com/chi-siamo/';
+            var docsurl = 'http://www.tecnichedivendita.com/cosa-puoi-fare-con-la-app-teveco/';
 			//var docsurl = 'https://docs.moodle.org/en/' + page;
             //if (typeof release != 'undefined') {
                 //var version = release.substr(0, 3).replace(".", "");
