@@ -1,90 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-]>
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" style="overflow:visible;enable-background:new 0 0 24 24;"
-	 xml:space="preserve" preserveAspectRatio="xMinYMid meet">
-<defs>
-</defs>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11.9565" y1="0" x2="11.9565" y2="24.0005">
-	<stop  offset="0" style="stop-color:#95BFF8"/>
-	<stop  offset="0.5569" style="stop-color:#84ADEF"/>
-	<stop  offset="1" style="stop-color:#7CA4EB"/>
-	<a:midPointStop  offset="0" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="0.4" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="1" style="stop-color:#7CA4EB"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_1_);" points="14.4,0 13.4,0 3,0 2,0 2,24 3,24 21,24 22,24 22,7.9 "/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="11.9565" y1="1" x2="11.9565" y2="23.0005">
-	<stop  offset="0" style="stop-color:#E7F4FC"/>
-	<stop  offset="1" style="stop-color:#DEEFFC"/>
-	<a:midPointStop  offset="0" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="1" style="stop-color:#DEEFFC"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_2_);" points="14,1 13,1 4,1 3,1 3,23 4,23 20,23 21,23 21,8.3 "/>
-<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="11.9565" y1="2" x2="11.9565" y2="22.0005">
-	<stop  offset="0" style="stop-color:#CEE9F9"/>
-	<stop  offset="1" style="stop-color:#BBDFF8"/>
-	<a:midPointStop  offset="0" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="1" style="stop-color:#BBDFF8"/>
-</linearGradient>
-<polygon style="fill:url(#SVGID_3_);" points="13.6,2 12.6,2 5,2 4,2 4,22 5,22 19,22 20,22 20,8.7 "/>
-<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="17.2021" y1="0" x2="17.2021" y2="9.3594">
-	<stop  offset="0" style="stop-color:#95BFF8"/>
-	<stop  offset="0.5569" style="stop-color:#84ADEF"/>
-	<stop  offset="1" style="stop-color:#7CA4EB"/>
-	<a:midPointStop  offset="0" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="0.4" style="stop-color:#95BFF8"/>
-	<a:midPointStop  offset="1" style="stop-color:#7CA4EB"/>
-</linearGradient>
-<path style="fill:url(#SVGID_4_);" d="M13,9c0,0,5.2-1.5,9,0.4c0-0.1,0-1.5,0-1.5L14.4,0c0,0-1.8,0-2,0C15.1,3.7,13,9,13,9z"/>
-<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="14.2793" y1="7.5449" x2="17.4074" y2="4.4168">
-	<stop  offset="0" style="stop-color:#E7F4FC"/>
-	<stop  offset="0.5181" style="stop-color:#E5F3FC"/>
-	<stop  offset="0.7045" style="stop-color:#DEF0FB"/>
-	<stop  offset="0.8371" style="stop-color:#D3EBFA"/>
-	<stop  offset="0.872" style="stop-color:#CEE9F9"/>
-	<stop  offset="1" style="stop-color:#BDD8F0"/>
-	<a:midPointStop  offset="0" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.87" style="stop-color:#E7F4FC"/>
-	<a:midPointStop  offset="0.872" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="0.5" style="stop-color:#CEE9F9"/>
-	<a:midPointStop  offset="1" style="stop-color:#BDD8F0"/>
-</linearGradient>
-<path style="fill:url(#SVGID_5_);" d="M20.4,7.8c-0.9-0.2-2-0.3-3.1-0.3c-1.1,0-2.1,0.1-3,0.3c0.4-1.6,0.7-4.1-0.2-6.4L20.4,7.8z"/>
-<g>
-	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="11.8569" y1="1.8521" x2="11.8569" y2="23.9487">
-		<stop  offset="0" style="stop-color:#DB6D17"/>
-		<stop  offset="1" style="stop-color:#BF3B08"/>
-		<a:midPointStop  offset="0" style="stop-color:#DB6D17"/>
-		<a:midPointStop  offset="0.5" style="stop-color:#DB6D17"/>
-		<a:midPointStop  offset="1" style="stop-color:#BF3B08"/>
-	</linearGradient>
-	<polygon style="fill:url(#SVGID_6_);" points="8,16.9 3.2,11.9 0,15.1 8.8,23.9 23.7,1.9 	"/>
-</g>
-<g>
-	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="9.5522" y1="9.0078" x2="9.5522" y2="22.3833">
-		<stop  offset="0" style="stop-color:#F6A55E"/>
-		<stop  offset="1" style="stop-color:#EA5B03"/>
-		<a:midPointStop  offset="0" style="stop-color:#F6A55E"/>
-		<a:midPointStop  offset="0.5" style="stop-color:#F6A55E"/>
-		<a:midPointStop  offset="1" style="stop-color:#EA5B03"/>
-	</linearGradient>
-	<polygon style="fill:url(#SVGID_7_);" points="1.4,15.1 3.2,13.4 7.9,18.4 17.7,9 8.7,22.4 	"/>
-</g>
-<g>
-	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="7.2485" y1="14.7998" x2="7.2485" y2="20.8174">
-		<stop  offset="0" style="stop-color:#F17219"/>
-		<stop  offset="1" style="stop-color:#EA5B03"/>
-		<a:midPointStop  offset="0" style="stop-color:#F17219"/>
-		<a:midPointStop  offset="0.5" style="stop-color:#F17219"/>
-		<a:midPointStop  offset="1" style="stop-color:#EA5B03"/>
-	</linearGradient>
-	<polygon style="fill:url(#SVGID_8_);" points="2.8,15.1 3.1,14.8 7.9,19.8 11.7,16.2 8.5,20.8 	"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg170"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="quiz-32.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs174" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview172"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg170" />
+  <image
+     width="32"
+     height="32"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,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
+gg==
+"
+     id="image178"
+     x="0"
+     y="0" />
 </svg>
